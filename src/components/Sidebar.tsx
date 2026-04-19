@@ -43,7 +43,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
           <div className="w-8 h-8 bg-blue-500 rounded-lg flex items-center justify-center">
             <span className="text-white font-bold text-sm">F</span>
           </div>
-          FlowMind
+          FluxNote
         </h1>
       </div>
 

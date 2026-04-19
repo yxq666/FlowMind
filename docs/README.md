@@ -1,6 +1,6 @@
-# FlowMind Desktop
+# FluxNote Desktop
 
-FlowMind 是一个基于 Electron + React + TypeScript + Tailwind CSS 开发的智能笔记应用桌面版。
+FluxNote 是一个基于 Electron + React + TypeScript + Tailwind CSS 开发的智能笔记应用桌面版。
 
 ## 功能特性
 

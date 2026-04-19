@@ -1,4 +1,4 @@
-# FlowMind Desktop - 组件规范文档
+# FluxNote Desktop - 组件规范文档
 
 ## 目录
 

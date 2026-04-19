@@ -60,7 +60,7 @@ export const Auth: React.FC<AuthProps> = ({ onLogin }) => {
           <div className="w-16 h-16 bg-blue-500 rounded-2xl flex items-center justify-center mx-auto mb-4">
             <span className="text-white font-bold text-2xl">F</span>
           </div>
-          <h1 className="text-2xl font-bold text-gray-800">FlowMind</h1>
+          <h1 className="text-2xl font-bold text-gray-800">FluxNote</h1>
           <p className="text-gray-500 mt-1">
             {mode === 'login' ? '欢迎回来' : '创建账户'}
           </p>
