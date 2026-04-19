@@ -25,13 +25,13 @@ export class DatabaseManager {
   private readonly DEFAULT_USER: User = {
     id: 'local-user',
     name: '本地用户',
-    email: 'local@flowmind.app',
+    email: 'local@fluxnote.app',
     createdAt: Date.now()
   }
 
   constructor() {
     this.store = new Store<StoreSchema>({
-      name: 'flowmind-data',
+      name: 'fluxnote-data',
       defaults: {
         version: DB_VERSION,
         users: [],

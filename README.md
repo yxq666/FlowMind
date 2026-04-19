@@ -1,6 +1,6 @@
-# FlowMind
+# FluxNote
 
-> AI 驱动的智能工作流管理工具 —— 让每一件事都做得更顺畅。
+> AI 驱动的智能笔记与工作流管理工具 —— 让思维流动起来。
 
 [![Electron](https://img.shields.io/badge/Electron-29-47848F?logo=electron)](https://www.electronjs.org/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)](https://react.dev/)
@@ -12,11 +12,11 @@
 
 ## ✨ 简介
 
-**FlowMind**（心流助手）是一款面向知识工作者的 AI 驱动型个人效率工具，专注于将碎片化的信息、任务和灵感自动整合为可执行的工作流。
+**FluxNote**（流笔记）是一款面向知识工作者的 AI 驱动型个人效率工具，专注于将碎片化的信息、任务和灵感自动整合为可执行的工作流。
 
-**核心理念**：不是让你做更多的事，而是让每一件事都做得更顺畅。
+**核心理念**：不是让你做更多的事，而是让每一件事都做得更顺畅，让思维如流水般自然流动。
 
-通过智能识别用户的工作模式，FlowMind 能够主动优化时间分配，帮助用户进入并保持"心流状态"，实现生产力的最大化。
+通过智能识别用户的工作模式，FluxNote 能够主动优化时间分配，帮助用户进入并保持"心流状态"，实现生产力的最大化。
 
 ---
 
@@ -73,7 +73,7 @@
 ### macOS (Apple Silicon)
 
 1. 下载最新版本的 DMG 文件
-2. 双击打开，将 **FlowMind** 拖入 **应用程序** 文件夹
+2. 双击打开，将 **FluxNote** 拖入 **应用程序** 文件夹
 3. 首次运行时，如遇"无法验证开发者"提示，请前往 **系统设置 → 隐私与安全性** → 点击 **"仍要打开"**
 
 ### Windows / Linux
@@ -116,8 +116,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/flowmind.git
-cd flowmind
+git clone https://github.com/yourusername/fluxnote.git
+cd fluxnote
 
 # 安装依赖
 npm install
@@ -135,7 +135,7 @@ npm run electron:build
 ### 项目结构
 
 ```
-flowmind/
+fluxnote/
 ├── electron/           # Electron 主进程代码
 │   ├── main.ts        # 主进程入口
 │   ├── preload.ts     # 预加载脚本（安全桥接）
@@ -202,9 +202,9 @@ flowmind/
 
 ## 🙏 致谢
 
-感谢所有为 FlowMind 提供反馈和建议的用户。
+感谢所有为 FluxNote 提供反馈和建议的用户。
 
-**FlowMind** — 让每一件事都做得更顺畅。
+**FluxNote** — 让思维流动起来。
 
 ---
 

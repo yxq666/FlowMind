@@ -101,7 +101,7 @@ export const Layout: React.FC<LayoutProps> = ({
     <div className="flex flex-col h-screen bg-gray-50">
       {/* 自定义标题栏 - 使窗口可拖拽 */}
       <div className="h-8 bg-gray-100 flex items-center px-3 shrink-0 select-none" style={{ WebkitAppRegion: 'drag' } as any}>
-        <div className="flex-1 text-center text-xs text-gray-500">FlowMind</div>
+        <div className="flex-1 text-center text-xs text-gray-500">FluxNote</div>
       </div>
       {/* 主内容 */}
       <div className="flex flex-1 overflow-hidden">

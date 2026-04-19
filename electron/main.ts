@@ -10,6 +10,7 @@ const createWindow = () => {
     height: 900,
     minWidth: 1000,
     minHeight: 600,
+    title: 'FluxNote',
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
       contextIsolation: true,
